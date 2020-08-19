@@ -7,9 +7,9 @@ body {
 .cabecera {
     margin: 0 50px 50px;
     padding: 1em;
-    border: 1px black solid;
+    border: 1px white solid;
     border-radius: 10px;
-    background: white;
+    background:black;
 }
 
 .post {

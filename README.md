@@ -10,5 +10,6 @@ Un blog genial para el [curso de Git y Github](https://platzi.com/clases/git-git
 * El verdadero amor por las buenas practicas
 * trucos muy locos del profesor
 * Las distintas personalidades de Freddy
+* Creado por el Increible TeamJPas
 
 Y como recordatorio...**Este README es solo una broma, no te lo tomes enserio** Diseñado para el ejemplo del curso de git y github
